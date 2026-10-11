@@ -2,7 +2,7 @@
 
 Обязательные правила работы AI-агентов в проектах, принявших конвенцию. Применимы к новым и существующим сервисам независимо от языка и фреймворка. Это внутренний engineering standard, а не официальный стандарт OpenAI, Anthropic или сертификат качества.
 
-**Версия:** 2026.10.2
+**Версия:** 2026.10.3
 
 **Источник:** [dvpost/coding_testing_and_docing_conventions](https://github.com/dvpost/coding_testing_and_docing_conventions)
 
